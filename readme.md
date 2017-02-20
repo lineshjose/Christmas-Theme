@@ -1,12 +1,10 @@
 # Christmas
-====================================
 A free WordPress theme.
 
 ![beautiful screenshot](./screenshot.png)
 
 
 ## Installation:
-------------------------------------
 1. Download "**christmas.zip**" file and upload it into WordPress using "Add New" under themes section in WP admin. 
 2. Activate the theme.
 
@@ -23,7 +21,6 @@ OR
 Watch this video: https://youtu.be/4-65ohSj55c	
 	
 ## Please help me, I'm stuck!
-------------------------------------
 We all know people need help with editing from time to time, which is why I offer free help in numerus way's. If you  need support please post  herer http://linesh.com/forums/forum/themes/christmas/
 	
 
